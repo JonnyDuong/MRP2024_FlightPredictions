@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 16 00:13:06 2024
-
-@author: duongj14
-"""
-
 import gzip
 import pandas as pd
 import openmeteo_requests
